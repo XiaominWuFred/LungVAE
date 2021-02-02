@@ -1,0 +1,13 @@
+2020-06-19 04:44:19 - carbontracker version 1.1.2
+2020-06-19 04:44:19 - Only predicted and actual consumptions are multiplied by a PUE coefficient of 1.58 (Rhonda Ascierto, 2018, Uptime Institute Global Data Center Survey).
+2020-06-19 04:44:19 - The following components were found: GPU with device(s) Quadro K620, Tesla K40c. CPU with device(s) cpu:0.
+2020-06-19 04:44:19 - Monitoring thread started.
+2020-06-19 04:44:29 - Epoch 1:
+2020-06-19 04:44:29 - Duration: 0:00:09.84
+2020-06-19 04:44:29 - Average power usage (W) for gpu: [ 0.954 64.794]
+2020-06-19 04:44:29 - Average power usage (W) for cpu: [33.661413]
+2020-06-19 04:44:29 - Live carbon intensity could not be fetched for your location. Defaulted to average carbon intensity for EU-28 in 2017 of 294.21 gCO2/kWh.
+2020-06-19 04:44:39 - Epoch 2:
+2020-06-19 04:44:39 - Duration: 0:00:09.83
+2020-06-19 04:44:39 - Average power usage (W) for gpu: [  0.95  120.806]
+2020-06-19 04:44:39 - Average power usage (W) for cpu: [33.703527]

@@ -1,0 +1,2 @@
+Model:20200619_04_38_unet_noAug_16_hidNumber of parameters:1869905
+Epoch	lossTr	accVl	lossVl	accVl	time(s)

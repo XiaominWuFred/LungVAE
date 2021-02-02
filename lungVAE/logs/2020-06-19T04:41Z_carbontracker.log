@@ -1,0 +1,47 @@
+2020-06-19 04:41:05 - carbontracker version 1.1.2
+2020-06-19 04:41:05 - Only predicted and actual consumptions are multiplied by a PUE coefficient of 1.58 (Rhonda Ascierto, 2018, Uptime Institute Global Data Center Survey).
+2020-06-19 04:41:05 - The following components were found: GPU with device(s) Quadro K620, Tesla K40c. CPU with device(s) cpu:0.
+2020-06-19 04:41:05 - Monitoring thread started.
+2020-06-19 04:41:12 - Epoch 1:
+2020-06-19 04:41:12 - Duration: 0:00:06.68
+2020-06-19 04:41:12 - Average power usage (W) for gpu: [ 0.94  64.053]
+2020-06-19 04:41:12 - Average power usage (W) for cpu: [33.528783]
+2020-06-19 04:41:12 - Live carbon intensity could not be fetched for your location. Defaulted to average carbon intensity for EU-28 in 2017 of 294.21 gCO2/kWh.
+2020-06-19 04:41:19 - Epoch 2:
+2020-06-19 04:41:19 - Duration: 0:00:06.65
+2020-06-19 04:41:19 - Average power usage (W) for gpu: [  0.937 128.003]
+2020-06-19 04:41:19 - Average power usage (W) for cpu: [33.781224]
+2020-06-19 04:41:25 - Epoch 3:
+2020-06-19 04:41:25 - Duration: 0:00:06.66
+2020-06-19 04:41:25 - Average power usage (W) for gpu: [  0.937 128.003]
+2020-06-19 04:41:25 - Average power usage (W) for cpu: [33.781224]
+2020-06-19 04:41:32 - Epoch 4:
+2020-06-19 04:41:32 - Duration: 0:00:06.67
+2020-06-19 04:41:32 - Average power usage (W) for gpu: [  0.951 129.494]
+2020-06-19 04:41:32 - Average power usage (W) for cpu: [33.606969]
+2020-06-19 04:41:39 - Epoch 5:
+2020-06-19 04:41:39 - Duration: 0:00:06.66
+2020-06-19 04:41:39 - Average power usage (W) for gpu: [  0.952 127.263]
+2020-06-19 04:41:39 - Average power usage (W) for cpu: [33.606969]
+2020-06-19 04:41:45 - Epoch 6:
+2020-06-19 04:41:45 - Duration: 0:00:06.66
+2020-06-19 04:41:45 - Average power usage (W) for gpu: [  0.952 127.263]
+2020-06-19 04:41:45 - Average power usage (W) for cpu: [33.7208]
+2020-06-19 04:41:52 - Epoch 7:
+2020-06-19 04:41:52 - Duration: 0:00:06.62
+2020-06-19 04:41:52 - Average power usage (W) for gpu: [  0.951 123.15 ]
+2020-06-19 04:41:52 - Average power usage (W) for cpu: [33.635473]
+2020-06-19 04:41:58 - Epoch 8:
+2020-06-19 04:41:58 - Duration: 0:00:06.62
+2020-06-19 04:41:58 - Average power usage (W) for gpu: [  0.951 123.15 ]
+2020-06-19 04:41:58 - Average power usage (W) for cpu: [33.635473]
+2020-06-19 04:42:05 - Epoch 9:
+2020-06-19 04:42:05 - Duration: 0:00:06.62
+2020-06-19 04:42:05 - Average power usage (W) for gpu: [  0.952 130.644]
+2020-06-19 04:42:05 - Average power usage (W) for cpu: [33.724218]
+2020-06-19 04:42:12 - Epoch 10:
+2020-06-19 04:42:12 - Duration: 0:00:06.62
+2020-06-19 04:42:12 - Average power usage (W) for gpu: [  0.96  121.829]
+2020-06-19 04:42:12 - Average power usage (W) for cpu: [33.724218]
+2020-06-19 04:42:12 - Live carbon intensity could not be fetched for your location. Defaulted to average carbon intensity for EU-28 in 2017 of 294.21 gCO2/kWh.
+2020-06-19 04:42:12 - Monitoring thread ended.

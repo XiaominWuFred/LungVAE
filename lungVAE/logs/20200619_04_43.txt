@@ -1,0 +1,4 @@
+Model:20200619_04_43_vae_noAug_16_hidNumber of parameters:3363382
+Epoch	lossTr	accVl	lossVl	accVl	time(s)
+0001	 1.3624	 0.7369	 1.2829	 0.6745	 9.8416
+0002	 0.4218	 0.1212	 0.3800	 0.1102	 9.8300

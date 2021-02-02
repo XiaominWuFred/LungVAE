@@ -1,0 +1,4 @@
+2020-06-19 04:39:09 - carbontracker version 1.1.2
+2020-06-19 04:39:09 - Only predicted and actual consumptions are multiplied by a PUE coefficient of 1.58 (Rhonda Ascierto, 2018, Uptime Institute Global Data Center Survey).
+2020-06-19 04:39:09 - The following components were found: GPU with device(s) Quadro K620, Tesla K40c. CPU with device(s) cpu:0.
+2020-06-19 04:39:09 - Monitoring thread started.
